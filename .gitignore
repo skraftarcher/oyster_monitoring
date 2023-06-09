@@ -1,6 +1,7 @@
 # History files
 .Rhistory
 .Rapp.history
+
 # Session Data files
 .RData
 .Rproj
@@ -31,3 +32,4 @@ vignettes/*.pdf
 /odata/
 /wdata/
 oyster_monitoring.Rproj
+/figures/
